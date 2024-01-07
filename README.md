@@ -1,6 +1,5 @@
 # flame-detection-and-supression-system
 
-Please watch this video to know more about this project: https://youtu.be/YIcbXj1amZk?si=xOzmwvV4LAcSddrc
 
 # Chapter 1: Background
 
